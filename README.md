@@ -24,7 +24,12 @@ The construction of equivalences across different network instantiations clearly
 It will be valuable in establishing equivalence between
 different Machine Learning-based models of the same phenomenon observed through different instruments/research groups.
 
-**To maintain anonymity, code and data files will be added here after the corresponding paper has passed through review.**
+## Contents
+Below we list the code entry points for reproducing key figures in the paper.
+
+1. _Figure 2:_ **Compare nonmonotonic networks.ipynb **
+2. _Figure 3:_ **Mapping between two functions of two inputs.ipynb**
+3. _Figure 4:_ **Mapping between two convolutional autoencoders.ipynb**
 
 ## License
 
